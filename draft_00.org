@@ -1,0 +1,10 @@
+#+TITLE: Hegel
+#+AUTHOR: Matthew J. Delhey
+#+DATE: Word Count: 
+#+INCLUDE: ~/mdelhey-org-template/word_wdate.org
+# (setq line-spacing 10)
+
+* Introduction
+  This is some text. Perhaps I would like to cite a book. Let's try that out. I want to cite a secondary source.[fn:tst]
+  
+
